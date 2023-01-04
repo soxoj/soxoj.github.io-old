@@ -1,6 +1,7 @@
 layout: page
 title: "Орфоэпический словарь OSINT"
-permalink: /dict
+permalink: /dictionary/
+
 
 | Юзернейм    | Как произносится | Ссылка |
 | ----------- | ----------- |
