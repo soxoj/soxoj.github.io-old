@@ -22,7 +22,7 @@ permalink: /dictionary/
 | angkasawan  | анкасав**а**н или **а**нка  | модератор и квиз-мейкер форума OSINT-расследований | 
 | господин собака | соб**а**ка   | Админ @osint_club_channel. киберохотник. | 
 | Pink Sweatsuit | п**и**нк св**э**тсьют | Админ форума OSINT-расследований. Корпоративная аналитика |
-| schwarz     | шв**а**рц        |          |
+| schwarz     | шв**а**рц        | Независимый OSINT-энтузиаст.        |
 | [Scully](https://t.me/bsbjs7283i38jsiwkwkz)| ск**а**лли | | 
 | [Pandora](https://t.me/pandora_intelligence)     |  панд**о**ра       | Мракоборец |
 | Agent       | аг**е**нт        |          |  
