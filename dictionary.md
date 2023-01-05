@@ -21,6 +21,7 @@ permalink: /dictionary/
 | váli        | в**а**ли         |          |    
 | angkasawan  | анкасав**а**н или **а**нка  |    
 | schwarz     | шв**а**рц        |          |
+| [Scully](https://t.me/bsbjs7283i38jsiwkwkz)| ск**а**лли | | 
 | [Pandora](https://t.me/pandora_intelligence)     |  панд**о**ра       |          |
 | Agent       | аг**е**нт        |          |    
 | Андрей Масалович | масал**о**вич или киберд**е**д |
