@@ -24,9 +24,9 @@ permalink: /dictionary/
 | Pink Sweatsuit | п**и**нк св**э**тсьют | Админ форума OSINT-расследований. Корпоративная аналитика |
 | schwarz     | шв**а**рц        |          |
 | [Scully](https://t.me/bsbjs7283i38jsiwkwkz)| ск**а**лли | | 
-| [Pandora](https://t.me/pandora_intelligence)     |  панд**о**ра       |          |
+| [Pandora](https://t.me/pandora_intelligence)     |  панд**о**ра       | Мракоборец |
 | Agent       | аг**е**нт        |          |  
-| Enzo | **э**нзо | Неравнодушный к осинту экс-главред CTFNews | 
+| Enzo | **э**нзо | Неравнодушный к осинту экс-главред CTFNews. Автор легенды OFFZONE | 
 | Андрей Масалович | масал**о**вич или киберд**е**д |
 | Игорь Бедеров    | б**е**деров  |         |    
 | Beholder Is Here | бих**о**лдер |         |
