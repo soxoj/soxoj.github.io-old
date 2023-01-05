@@ -19,7 +19,9 @@ permalink: /dictionary/
 | [dukera](https://t.me/dukera_ch)      | д**ю**кера       | 
 | forneL      | ф**о**рнел       |          |    
 | váli        | в**а**ли         |          |    
-| angkasawan  | анкасав**а**н или **а**нка  |    
+| angkasawan  | анкасав**а**н или **а**нка  |
+| господин собака | соб**а**ка   | Админ @osint_club_channel. киберохотник. | 
+| Pink Sweatsuit | п**и**нк св**э**тсьют | Админ форума OSINT-расследований. Корпоративная аналитика |
 | schwarz     | шв**а**рц        |          |
 | [Scully](https://t.me/bsbjs7283i38jsiwkwkz)| ск**а**лли | | 
 | [Pandora](https://t.me/pandora_intelligence)     |  панд**о**ра       |          |
