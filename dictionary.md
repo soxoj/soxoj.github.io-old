@@ -17,7 +17,7 @@ permalink: /dictionary/
 | ----------- | ---------------- |--------- | 
 | [soxoj](https://github.com/soxoj)       | сакс**о**й       | 
 | [dukera](https://t.me/dukera_ch)      | д**ю**кера       | 
-| forneL      | ф**о**рнел       |          |    
+| forneL      | ф**о**рнел       | администратор форума OSINT-расследований         |    
 | váli        | в**а**ли         |          |    
 | angkasawan  | анкасав**а**н или **а**нка  |
 | господин собака | соб**а**ка   | Админ @osint_club_channel. киберохотник. | 
