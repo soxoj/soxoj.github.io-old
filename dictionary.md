@@ -25,7 +25,8 @@ permalink: /dictionary/
 | [schwarz](https://t.me/Schwarz_Osint)   | шв**а**рц        | Независимый OSINT-энтузиаст.        |
 | [Scully](https://t.me/bsbjs7283i38jsiwkwkz)   | ск**а**лли | | 
 | [Pandora](https://t.me/pandora_intelligence)  |  панд**о**ра       | Мракоборец |
-| Agent                                   | аг**е**нт        |          |  
+| Agent                                   | аг**е**нт        | Создатель [HowToFind](https://t.me/HowToFind) и [Universal Search bot](https://t.me/UniversalSearchRobot) |  
+| Cyber Detective | с**а**йбер д**е**тектив | админ канала https://t.me/cybdetective |
 | Enzo                                    | **э**нзо                        | Неравнодушный к осинту экс-главред CTFNews. Автор легенды OFFZONE | 
 | [Root Wegwarte](https://t.me/netstalking_overground)   | рут вегв**а**рт  | Систематизация нетсталкинга и OSINT
 | Андрей Масалович | масал**о**вич или киберд**е**д |
