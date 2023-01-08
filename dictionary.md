@@ -19,8 +19,9 @@ permalink: /dictionary/
 | [dukera](https://t.me/dukera_ch)        | д**ю**кера       | Докладчик Moscow OSINT mindset meetup. OSINT-энтузиаст.
 | forneL                                  | ф**о**рнел       | администратор форума OSINT-расследований         |    
 | váli                                    | в**а**ли         | модератор форума OSINT-расследований и форума Schwarz'а, волонтёрские поиски        |    
-| angkasawan                              | анкасав**а**н или **а**нка  | модератор и квиз-мейкер форума OSINT-расследований | 
-| господин собака                         | соб**а**ка   | Админ @osint_club_channel и форума OSINT-расследований. киберохотник. | 
+| angkasawan                              | анкасав**а**н или **а**нка        | модератор и квиз-мейкер форума OSINT-расследований | 
+| господин собака                         | соб**а**ка                        | Админ [OSINT CLUB](https://t.me/osint_club_channel) и форума OSINT-расследований. киберохотник. |
+| Григорич JSDio                          | григ**о**рич джей**э**с-д**и**о   | Админ [OSINT CLUB](https://t.me/osint_club_channel) и создатель бота [TeleSINT](https://t.me/telesint_bot) |
 | Pink Sweatsuit                          | п**и**нк св**э**тсьют | Админ форума OSINT-расследований. Корпоративная аналитика |
 | [schwarz](https://t.me/Schwarz_Osint)   | шв**а**рц        | Независимый OSINT-энтузиаст.        |
 | [Scully](https://t.me/bsbjs7283i38jsiwkwkz)   | ск**а**лли | | 
