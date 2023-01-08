@@ -28,7 +28,9 @@ permalink: /dictionary/
 | Agent                                   | аг**е**нт        | Создатель [HowToFind](https://t.me/HowToFind) и [Universal Search bot](https://t.me/UniversalSearchRobot) |  
 | Cyber Detective | с**а**йбер д**е**тектив | админ канала https://t.me/cybdetective |
 | Enzo                                    | **э**нзо                        | Неравнодушный к осинту экс-главред CTFNews. Автор легенды OFFZONE | 
-| [Root Wegwarte](https://t.me/netstalking_overground)   | рут вегв**а**рт  | Систематизация нетсталкинга и OSINT
+| [Root Wegwarte](https://t.me/netstalking_overground)   | рут вегв**а**рт  | Систематизация нетсталкинга и OSINT |
+| Хx xХ | **и**кс | Редактор статей OSINT mindset и форума расследований |
+| Akvagon | акваг**о**н | Редактор статей OSINT mindset и форума расследований |
 | Андрей Масалович | масал**о**вич или киберд**е**д | Легенда российского сообщества, подполковник ФАПСИ в отставке |
 | Сергей Рэдхант | рэдх**а**нт | Создатель YouTube-канала https://youtube.com/@RussianOSINT | 
 | Игорь Бедеров    | б**е**деров  |         |   
