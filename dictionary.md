@@ -13,29 +13,29 @@ permalink: /dictionary/
 Эти вопросы оставались без ответа на протяжении тысячелетий...
 пока не появился этот словарь!
 
-| Имя         | Как произносится | Кто это? | 
-| ----------- | ---------------- |--------- | 
-| [soxoj](https://github.com/soxoj)       | сакс**о**й       | Неугомонный OSINT-идеолог, организатор митапов и создатель форума OSINT-расследований
-| [dukera](https://t.me/dukera_ch)        | д**ю**кера       | Докладчик Moscow OSINT mindset meetup. OSINT-энтузиаст.
-| forneL                                  | ф**о**рнел       | администратор форума OSINT-расследований         |    
-| váli                                    | в**а**ли         | модератор форума OSINT-расследований и форума Schwarz'а, волонтёрские поиски        |    
-| angkasawan                              | анкасав**а**н или **а**нка        | модератор и квиз-мейкер форума OSINT-расследований | 
-| господин собака                         | соб**а**ка                        | Админ [OSINT CLUB](https://t.me/osint_club_channel) и форума OSINT-расследований. киберохотник. |
-| Григорич JSDio                          | григ**о**рич джей**э**с-д**и**о   | Админ [OSINT CLUB](https://t.me/osint_club_channel) и создатель бота [TeleSINT](https://t.me/telesint_bot) |
-| Pink Sweatsuit                          | п**и**нк св**э**тсьют | Админ форума OSINT-расследований. Корпоративная аналитика |
-| [schwarz](https://t.me/Schwarz_Osint)   | шв**а**рц        | Независимый OSINT-энтузиаст.        |
-| [Scully](https://t.me/bsbjs7283i38jsiwkwkz)   | ск**а**лли | | 
-| [Pandora](https://t.me/pandora_intelligence)  |  панд**о**ра       | Мракоборец |
-| Agent                                   | аг**е**нт        | Создатель [HowToFind](https://t.me/HowToFind) и [Universal Search bot](https://t.me/UniversalSearchRobot) |  
-| Cyber Detective | с**а**йбер д**е**тектив | админ канала https://t.me/cybdetective |
-| Enzo                                    | **э**нзо                        | Неравнодушный к осинту экс-главред CTFNews. Автор легенды OFFZONE | 
-| [Root Wegwarte](https://t.me/netstalking_overground)   | рут вегв**а**рт  | Систематизация нетсталкинга и OSINT |
-| Хx xХ | **и**кс | Редактор статей OSINT mindset и форума расследований |
-| Akvagon | акваг**о**н | Редактор статей OSINT mindset и форума расследований |
-| Андрей Масалович | масал**о**вич или киберд**е**д | Легенда российского сообщества, подполковник ФАПСИ в отставке |
-| Сергей Рэдхант | рэдх**а**нт | Создатель YouTube-канала https://youtube.com/@RussianOSINT | 
-| Игорь Бедеров    | б**е**деров  |         |   
-| Beholder Is Here | бих**о**лдер |         |
-| Мефодий Келевра  | меф**о**дий кел**е**вра |     |
-| Евгений Антипов | ант**и**пов | Создатель Глаза Бога
-| Евгений Ивченков | **и**вченков | Частный детектив, лицо CyberYozh
+| Имя         | Транслитерация | МФА/IPА | Кто это? | 
+| ----------- | ----------------  | --------- | --------- | 
+| [soxoj](https://github.com/soxoj)       | сакс**о**й       | [sʌk'sɔɪ] | Неугомонный OSINT-идеолог, организатор митапов и создатель форума OSINT-расследований
+| [dukera](https://t.me/dukera_ch)        | д**ю**кера       | ['djuːkɪərə] | Докладчик Moscow OSINT mindset meetup. OSINT-энтузиаст.
+| forneL                                  | ф**о**рнел       | ['fɔːnel] | администратор форума OSINT-расследований         |    
+| váli                                    | в**а**ли         | ['va:li] | модератор форума OSINT-расследований и форума Schwarz'а, волонтёрские поиски        |    
+| angkasawan                              | анкасав**а**н или **а**нка        | [aŋkasa'wa:n] | модератор и квиз-мейкер форума OSINT-расследований | 
+| господин собака                         | соб**а**ка                        | [sɔ'ba:ka] | Админ [OSINT CLUB](https://t.me/osint_club_channel) и форума OSINT-расследований. киберохотник. |
+| Григорич JSDio                          | григ**о**рич джей**э**с-д**и**о   | [ɡrɪˈɡorɪtʃ ʤeɪ'ɛs 'dɪə] | Админ [OSINT CLUB](https://t.me/osint_club_channel) и создатель бота [TeleSINT](https://t.me/telesint_bot) |
+| Pink Sweatsuit                          | п**и**нк св**э**тсьют | [pɪŋk 'swɛtsjuːt] | Админ форума OSINT-расследований. Корпоративная аналитика |
+| [schwarz](https://t.me/Schwarz_Osint)   | шв**а**рц        | [ʃvarts] | Независимый OSINT-энтузиаст.        |
+| [Scully](https://t.me/bsbjs7283i38jsiwkwkz)   | ск**а**лли | [ˈska:li] | | 
+| [Pandora](https://t.me/pandora_intelligence)  |  панд**о**ра   | [pænˈdɔrə] | Мракоборец |
+| Agent                                   | аг**е**нт        | [əˈɡent] | Создатель [HowToFind](https://t.me/HowToFind) и [Universal Search bot](https://t.me/UniversalSearchRobot) |  
+| Cyber Detective | с**а**йбер д**е**тектив | [ˈsaɪbə dɪˈtɛktɪv] | админ канала https://t.me/cybdetective |
+| Enzo                                    | **э**нзо             |['eŋzə] | Неравнодушный к осинту экс-главред CTFNews. Автор легенды OFFZONE | 
+| [Root Wegwarte](https://t.me/netstalking_overground)   | рут вегв**а**рт  | [ruːt vɛg'vaːrt] | Систематизация нетсталкинга и OSINT |
+| Хx xХ | **и**кс | [ɪks] | Редактор статей OSINT mindset и форума расследований |
+| Akvagon | акваг**о**н | [əkwə'gɔ:n] | Редактор статей OSINT mindset и форума расследований |
+| Андрей Масалович | масал**о**вич или киберд**е**д | [kibɛrˈdet]/[mʌsʌ'lɔ:vɪtʃ] | Легенда российского сообщества, подполковник ФАПСИ в отставке |
+| Сергей Рэдхант | рэдх**а**нт | [rɛd'hʌnt] | Создатель YouTube-канала https://youtube.com/@RussianOSINT | 
+| Игорь Бедеров    | б**е**деров  | ['bɛderɔf] |        |   
+| Beholder Is Here | бих**о**лдер | [bɪˈhəʊldə] |        |
+| Мефодий Келевра  | меф**о**дий кел**е**вра | [mɪˈfodɪj ke'lɛvrə] |     |
+| Евгений Антипов | ант**и**пов | [an'tɪpɔf] | Создатель Глаза Бога
+| Евгений Ивченков | **и**вченков | ['ɪftʃɛŋkɔf] | Частный детектив, лицо CyberYozh
