@@ -24,7 +24,7 @@ permalink: /dictionary/
 | Григорич JSDio                          | григ**о**рич джей**э**с-д**и**о   | [ɡrɪˈɡorɪtʃ ʤeɪ'ɛs 'dɪə] | Админ [OSINT CLUB](https://t.me/osint_club_channel) и создатель бота [TeleSINT](https://t.me/telesint_bot) |
 | Pink Sweatsuit                          | п**и**нк св**э**тсьют | [pɪŋk 'swɛtsjuːt] | Админ форума OSINT-расследований. Корпоративная аналитика |
 | [schwarz](https://t.me/Schwarz_Osint)   | шв**а**рц        | [ʃvarts] | Независимый OSINT-энтузиаст.        |
-| [Scully](https://t.me/bsbjs7283i38jsiwkwkz)   | ск**а**лли | [ˈska:li] | | 
+| [Scully](https://t.me/bsbjs7283i38jsiwkwkz)   | ск**а**лли | [ˈska:li] | Профессиональная киберразведчица и независимая исследовательница | 
 | [Pandora](https://t.me/pandora_intelligence)  |  панд**о**ра   | [pænˈdɔrə] | Мракоборец |
 | Agent                                   | аг**е**нт        | [əˈɡent] | Создатель [HowToFind](https://t.me/HowToFind) и [Universal Search bot](https://t.me/UniversalSearchRobot) |  
 | Cyber Detective | с**а**йбер д**е**тектив | [ˈsaɪbə dɪˈtɛktɪv] | админ канала https://t.me/cybdetective |
