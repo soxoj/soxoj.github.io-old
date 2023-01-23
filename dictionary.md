@@ -16,7 +16,7 @@ permalink: /dictionary/
 | Имя         | Транслитерация | МФА/IPА | Кто это? | 
 | ----------- | ----------------  | --------- | --------- | 
 | [soxoj](https://github.com/soxoj)       | сокс**о**й       | [sɐk'sɔɪ] | Неугомонный OSINT-идеолог, организатор митапов и создатель форума OSINT-расследований
-| [dukera](https://t.me/dukera_ch)        | д**ю**кера       | ['djuːkɪərə] | Докладчик Moscow OSINT mindset meetup. OSINT-энтузиаст.
+| [dukera](https://t.me/dukera_ch)        | д**ю**кера       | ['djuːkɪərə] | Докладчик Moscow OSINT mindset meetup. OSINT-энтузиаст. Админ форума OSINT-расследований. |
 | forneL                                  | ф**о**рнел       | ['fɔːnel] | администратор форума OSINT-расследований         |    
 | váli                                    | в**а**ли         | ['va:li] | модератор форума OSINT-расследований и форума Schwarz'а, волонтёрские поиски    |    
 | angkasawan                              | анкасав**а**н или **а**нка        | [aŋkasa'wa:n] | модератор и квиз-мейкер форума OSINT-расследований | 
