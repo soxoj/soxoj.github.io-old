@@ -20,7 +20,7 @@ permalink: /dictionary/
 | forneL                                  | ф**о**рнел       | ['fɔːnel] | администратор форума OSINT-расследований         |    
 | váli                                    | в**а**ли         | ['va:li] | модератор форума OSINT-расследований и форума Schwarz'а, волонтёрские поиски    |    
 | angkasawan                              | анкасав**а**н или **а**нка        | [aŋkasa'wa:n] | модератор и квиз-мейкер форума OSINT-расследований | 
-| господин собака                         | соб**а**ка                        | [sɔ'ba:ka] | Админ [OSINT CLUB](https://t.me/osint_club_channel) и форума OSINT-расследований. киберохотник. |
+| господин собака                         | соб**а**ка                        | [sɔ'ba:ka] | Админ [OSINT CLUB](https://t.me/osint_club_channel) и форума OSINT-расследований. привлекательный техносексуал, киберохотник, журналист. |
 | Григорич JSDio                          | григ**о**рич джей**э**с-д**и**о   | [ɡrɪˈɡorɪtʃ ʤeɪ'ɛs 'dɪə] | Админ [OSINT CLUB](https://t.me/osint_club_channel) и создатель бота [TeleSINT](https://t.me/telesint_bot) |
 | Pink Sweatsuit                          | п**и**нк св**э**тсьют | [pɪŋk 'swɛtsjuːt] | Админ форума OSINT-расследований. Корпоративная аналитика |
 | [schwarz](https://t.me/Schwarz_Osint)   | шв**а**рц        | [ʃvarts] | Независимый OSINT-энтузиаст.        |
