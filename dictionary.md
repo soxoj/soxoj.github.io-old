@@ -1,44 +1,5 @@
----
-layout: page
-title: "Орфоэпический словарь имён в OSINT"
-permalink: /dictionary/
----
-
-## Орфоэпический словарь имён в OSINT
-
-Русскоязычное сообщество OSINT богато людьми с труднопроизносимыми именами.
-
-Кто они? Как читать их никнеймы и фамилии?
-
-Эти вопросы оставались без ответа на протяжении тысячелетий...
-пока не появился этот словарь!
-
-| Имя         | Транслитерация | МФА/IPА | Кто это? | 
-| ----------- | ----------------  | --------- | --------- | 
-| [soxoj](https://github.com/soxoj)       | сокс**о**й       | [sɐk'sɔɪ] | Неугомонный OSINT-идеолог, организатор митапов и создатель форума OSINT-расследований
-| [dukera](https://t.me/dukera_ch)        | д**ю**кера       | ['djuːkɪərə] | Докладчик Moscow OSINT mindset meetup. OSINT-энтузиаст. Админ форума OSINT-расследований. |
-| forneL                                  | ф**о**рнел       | ['fɔːnel] | администратор форума OSINT-расследований         |    
-| váli                                    | в**а**ли         | ['va:li] | модератор форума OSINT-расследований и форума Schwarz'а, волонтёрские поиски    |    
-| angkasawan                              | анкасав**а**н или **а**нка        | [aŋkasa'wa:n] | модератор и квиз-мейкер форума OSINT-расследований | 
-| господин собака                         | соб**а**ка                        | [sɔ'ba:ka] | Админ [OSINT CLUB](https://t.me/osint_club_channel) и форума OSINT-расследований. привлекательный техносексуал, киберохотник, журналист. |
-| Григорич JSDio                          | григ**о**рич джей**э**с-д**и**о   | [ɡrɪˈɡorɪtʃ ʤeɪ'ɛs 'dɪə] | Админ [OSINT CLUB](https://t.me/osint_club_channel) и создатель бота [TeleSINT](https://t.me/telesint_bot) |
-| Pink Sweatsuit                          | п**и**нк св**э**тсьют | [pɪŋk 'swɛtsjuːt] | Админ форума OSINT-расследований. Корпоративная аналитика |
-| [schwarz](https://t.me/Schwarz_Osint)   | шв**а**рц        | [ʃvarts] | Независимый OSINT-энтузиаст.        |
-| [Scully](https://t.me/bsbjs7283i38jsiwkwkz)   | ск**а**лли | [ˈska:li] | Профессиональная киберразведчица и независимая исследовательница | 
-| [Pandora](https://t.me/pandora_intelligence)  |  панд**о**ра   | [pænˈdɔrə] | Мракоборец |
-| Agent                                   | аг**е**нт        | [əˈɡent] | Создатель [HowToFind](https://t.me/HowToFind) и [Universal Search bot](https://t.me/UniversalSearchRobot) |  
-| Cyber Detective | с**а**йбер д**е**тектив | [ˈsaɪbə dɪˈtɛktɪv] | админ канала https://t.me/cybdetective |
-| Enzo                                    | **э**нзо             |['eŋzə] | Неравнодушный к осинту экс-главред CTFNews. Автор легенды OFFZONE | 
-| [Root Wegwarte](https://t.me/netstalking_overground)   | рут вегв**а**рт  | [ruːt vɛg'vaːrt] | Систематизация нетсталкинга и OSINT |
-| Хx xХ | **и**кс | [ɪks] | Редактор статей OSINT mindset и форума расследований |
-| Akvagon | акваг**о**н | [əkwə'gɔ:n] | Редактор статей OSINT mindset и форума расследований |
-| JB314            | джейб**и**   | [d͡ʐʐɛɪˈbɪ] | Занимается аналитикой данных |
-| Андрей Масалович | масал**о**вич или киберд**е**д | [kibɛrˈdet]/[mʌsʌ'lɔ:vɪtʃ] | Легенда российского сообщества, подполковник ФАПСИ в отставке |
-| Сергей Рэдхант | рэдх**а**нт | [rɛd'hʌnt] | Создатель YouTube-канала https://youtube.com/@RussianOSINT | 
-| Игорь Бедеров    | б**е**деров  | ['bɛderɔf] | Основатель и владелец российской компании Интернет-Розыск (интернет-розыск.рф) |   
-| Beholder Is Here | бих**о**лдер | [bɪˈhəʊldə] | Руководитель консалтингового агентства Beholderishere Consulting |
-| Мефодий Келевра  | меф**о**дий кел**е**вра | [mɪˈfodɪj ke'lɛvrə] | Основатель и глава компании TM Group Security (tmgroup.biz) |
-| Denis Wagner | денис в**а**гнер | [dɪˈnis ˈvaɡnɛr] | Админ @osint_rf_lib и группы по поиску людей @OSINT_SEARCH |
-| Евгений Антипов | ант**и**пов | [an'tɪpɔf] | Создатель Глаза Бога |
-| Евгений Ивченков | **и**вченков | ['ɪftʃɛŋkɔf] | Частный детектив, лицо CyberYozh |
-| Фиолетовый       | фиол**е**товый | [fɪɐˈletəvɨɪ̯] | Одиозная виртуальная личность |
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to OSINT mindset gitbook...</title>
+<meta http-equiv="refresh" content="0; URL=https://osint-mindset.gitbook.io/index/who-is-who">
+<link rel="canonical" href="https://osint-mindset.gitbook.io/index/who-is-who">
