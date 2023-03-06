@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Орфоэпический словарь имён в OSINT"
+permalink: /dictionary/
+---
+
 <!DOCTYPE html>
 <meta charset="utf-8">
 <title>Redirecting to OSINT mindset gitbook...</title>
