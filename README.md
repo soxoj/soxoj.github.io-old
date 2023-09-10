@@ -18,7 +18,7 @@ I am **OSINT enthusiast** with a background in cybersecurity and software develo
 
 ⚒️ I have had experience before in cybersecurity (antibot/antifraud protection, pentest), software development (mostly Python, also Go, Lua), building of development processes (Scrum, Kanban) and people management.
 
-✍️ You can find my articles and guides in the Telegram channel of [OSINT mindset](https://t.me/osint_mindset) community, [on GitHub](https://github.com/soxoj) or on [my Substack](https://soxoj.substack.com/).
+✍️ You can find my articles, guides, and even podcasts on [Medium](https://soxoj.medium.com/), [Substack](https://soxoj.substack.com/), and in the Telegram channel of [OSINT mindset](https://t.me/osint_mindset) community (untranslated, sorry), and, of course, [on GitHub](https://github.com/soxoj).
 
 ## 🚧 Some projects
 
