@@ -10,19 +10,19 @@ I am **OSINT enthusiast** with a background in cybersecurity and software develo
 
 🎙️ Since 2018 I've been talking about OSINT, search methods, and privacy at public events; was a speaker at large international conferences. Also, I prepared and conducted two training courses about open-source intelligence for cybersec students and private investigators. You can look at some of my talks in [this YouTube playlist](https://www.youtube.com/playlist?list=PLskYWMG4mV-6osVePbwJa2Tp2Bc2EUI1p).
 
-🎥 Later I founded the **OSINT mindset community** (2020 - [first post](https://t.me/osint_mindset/5), 2022 - [first meetup](https://t.me/osint_mindset/94)). The community has 17K subscribers, 4K members of [Investigation Forum](https://t.me/+GMxoDCvLO0k0MWRi), and dozens of active members and speakers. You can watch records of talks from [monthly meetups on YouTube](https://www.youtube.com/playlist?list=PLskYWMG4mV-7A2tKggMryk18tbwC7jLhX), listen OSINT mindset [podcasts on platforms](https://osint-mindset.mave.digital/), and read the excellent [wiki on Gitbook](https://osint-mindset.gitbook.io).
+🎥 Later I founded the **OSINT mindset community** (2020 - [first post](https://t.me/osint_mindset/5), 2022 - [first meetup](https://t.me/osint_mindset/94)). The community has almost 20K subscribers, 4K members of [Investigation Forum](https://t.me/+GMxoDCvLO0k0MWRi), and dozens of active members and speakers. You can watch [records of talks from monthly meetups](https://www.youtube.com/playlist?list=PLskYWMG4mV-7A2tKggMryk18tbwC7jLhX) on YouTube, [listen OSINT mindset podcasts](https://osint-mindset.mave.digital/) on various platforms, and [read the excellent wiki](https://osint-mindset.gitbook.io) on Gitbook.
 
 ## 💼 Experience
 
-🕵🏽 Currently, I am head of the Center of Excellence in [Social Links](https://sociallinks.io/): we conduct investigations, teach OSINT, and help to develop new methods and tools.
+🕵🏽 Currently, I am head of the OSINT Center of Excellence in [Social Links](https://sociallinks.io/). Guys from my department conduct investigations, teach OSINT, and help to develop new methods and tools.
 
-⚒️ I have had experience before in cybersecurity (antibot/antifraud protection, pentest), software development (mostly Python, also Go, Lua), building of development processes (Scrum, Kanban) and people management.
+⚒️ I have had experience before in cybersecurity (antibot/anti-fraud protection, pentest), software development (mostly Python, also Go, Lua), building of development processes (Scrum, Kanban), and people management.
 
 ✍️ You can find my articles, guides, and even podcasts on [Medium](https://soxoj.medium.com/), [Substack](https://soxoj.substack.com/), and in the Telegram channel of [OSINT mindset](https://t.me/osint_mindset) community (untranslated, sorry), and, of course, [on GitHub](https://github.com/soxoj).
 
 ## 🚧 Some projects
 
-- [Maigret](https://github.com/soxoj/maigret) - a namecheker collecting a dossier on a person by username from 3000+ sites (9K starts on GitHub)
+- [Maigret](https://github.com/soxoj/maigret) - a namechecker collecting a dossier on a person by username from 3000+ sites (9K starts on GitHub)
 - [OSINT namecheckers list](https://github.com/soxoj/osint-namecheckers-list) - a curated list of all the tools for checking accounts existence by username
 - [OSINT CLI tool skeleton](https://github.com/soxoj/osint-cli-tool-skeleton) - a template of Python project for new OSINT command-line tools
 - [Username generation guide](https://github.com/soxoj/username-generation-guide) - a definitive guide to generating usernames for OSINT purposes
