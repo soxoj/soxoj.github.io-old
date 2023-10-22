@@ -1,24 +1,24 @@
-# 👋 Hi there, I am Soxoj
-
-<img src="https://avatars.githubusercontent.com/u/31013580" height="200">
+# 👋 Hi there, it's the homepage of Soxoj
 
 ## ❓ Who am I
 
+<img align="right" src="https://avatars.githubusercontent.com/u/31013580" height="200">
+
 I am an **OSINT enthusiast** with a background in cybersecurity and software development. 🔐 
 
-⚒️ I started getting into OSINT in 2015 by playing CTFs and ARGs and making information-gathering and processing tools. Check the links below or visit [my GitHub repositories page](https://github.com/soxoj?tab=repositories).
+⚒️ I started getting into OSINT in 2015 by playing CTFs and ARGs and making [information-gathering and processing tools](https://github.com/stars/soxoj/lists/my-osint-tools).
 
 🎙️ Since 2018 I've been talking about OSINT, search methods, and privacy at public events; I was a speaker at large international conferences like leHACK and ISS World Europe. Also, I prepared and conducted two training courses about open-source intelligence for cybersec students and private investigators. You can look at some of my talks in [this YouTube playlist](https://www.youtube.com/playlist?list=PLskYWMG4mV-6osVePbwJa2Tp2Bc2EUI1p).
 
-🎥 Later I founded the **OSINT mindset community** (2020 - [first post](https://t.me/osint_mindset/5), 2022 - [first meetup](https://t.me/osint_mindset/94)). The community has more than 20K subscribers, 4K members of [Investigation Forum](https://t.me/+GMxoDCvLO0k0MWRi), and dozens of active members and speakers. You can watch [records of talks from monthly meetups](https://www.youtube.com/playlist?list=PLskYWMG4mV-7A2tKggMryk18tbwC7jLhX) on YouTube, [listen to OSINT mindset podcasts](https://osint-mindset.mave.digital/) on various platforms, and [read the excellent wiki](https://osint-mindset.gitbook.io) on Gitbook.
+🎥 In 2020 I founded the **OSINT mindset community** ([first post](https://t.me/osint_mindset/5), [first meetup](https://t.me/osint_mindset/94)). The community has more than 20K subscribers, 4K members of [Investigation Forum](https://forum.osint-mindset.com), and dozens of active members and speakers in 3 countries and 5 cities. You can watch [records of meetup talks](https://www.youtube.com/playlist?list=PLskYWMG4mV-7A2tKggMryk18tbwC7jLhX) on YouTube, [listen to OSINT mindset podcasts](https://osint-mindset.mave.digital/) on various platforms, and [read the excellent wiki](https://osint-mindset.gitbook.io) on Gitbook.
 
 ## 💼 Experience
 
 🕵🏽 Currently, I am head of the OSINT Center of Excellence in [Social Links](https://sociallinks.io/). Guys from my department conduct investigations, teach OSINT and help to develop new methods and tools.
 
-⚒️ I have had experience before in cybersecurity (antibot/anti-fraud protection, pentest), software development (mostly Python, also Go, Lua), building of development processes (Scrum, Kanban), and people management.
+⚒️ I have experience in cybersecurity (antibot/anti-fraud protection, pentest), software development (mostly Python, also Go, Lua), building of development processes (Scrum, Kanban), and people management.
 
-✍️ You can find my articles, guides, and even podcasts on [Medium](https://soxoj.medium.com/), [Substack](https://soxoj.substack.com/), and in the Telegram channel of [OSINT mindset](https://t.me/osint_mindset) community (untranslated, sorry), and, of course, [on GitHub](https://github.com/soxoj).
+✍️ You can find my articles, guides, and even podcasts on [**Substack**](https://soxoj.substack.com/), [Medium (old)](https://soxoj.medium.com/), in the Telegram channels [Soxoj insides](https://t.me/soxoj_insides) and [OSINT mindset (old posts)](https://t.me/osint_mindset), and, of course, [in GitHub list of my guides and collections](https://github.com/stars/soxoj/lists/my-guides-and-collections).
 
 ## 🚧 Some projects
 
@@ -32,10 +32,4 @@ I am an **OSINT enthusiast** with a background in cybersecurity and software dev
 
 The fastest ways to contact me: **[DM in Telegram](https://t.me/soxoj)** or mail to <a href="mailto:soxoj@protonmail.com">soxoj@protonmail.com</a>.
 
-Also:
-- [Twitter](https://twitter.com/Sox0j)
-- [Telegram channel](https://t.me/soxoj_insides)
-- [Bluesky](https://bsky.app/profile/soxoj.bsky.social)
-- [Mastodon](https://infosec.exchange/@soxoj)
-- [LinkedIn](https://ln.soxoj.com/)
-
+[Twitter](https://twitter.com/Sox0j) | [Telegram](https://t.me/soxoj) | [Bluesky](https://bsky.app/profile/soxoj.bsky.social) | [Mastodon](https://infosec.exchange/@soxoj) | [LinkedIn](https://ln.soxoj.com/)
