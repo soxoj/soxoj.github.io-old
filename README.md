@@ -36,4 +36,4 @@ The fastest ways to contact me: **[DM in Telegram](https://t.me/soxoj)** or mail
 
 ## 🎮 Quest
 
-${\color{gray}Follow\ the\ link:}$ <!--YUhSMGNITTZMeTkwTG0xbEx5dHR[https://t.me/+Zb3aPVxWf0M3ZWM5]lR2xEYjBGdE9GSlVRWHBPYlVWNA -->
+<p color="white">Follow the link:</p> <!--YUhSMGNITTZMeTkwTG0xbEx5dHR[https://t.me/+Zb3aPVxWf0M3ZWM5]lR2xEYjBGdE9GSlVRWHBPYlVWNA -->
