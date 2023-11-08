@@ -33,3 +33,7 @@ I am an **OSINT enthusiast** with a background in cybersecurity and software dev
 The fastest ways to contact me: **[DM in Telegram](https://t.me/soxoj)** or mail to <a href="mailto:soxoj@protonmail.com">soxoj@protonmail.com</a>.
 
 [Twitter](https://twitter.com/Sox0j) | [Telegram](https://t.me/soxoj) | [Bluesky](https://bsky.app/profile/soxoj.bsky.social) | [Mastodon](https://infosec.exchange/@soxoj) | [LinkedIn](https://ln.soxoj.com/)
+
+## 🎮 Quest
+
+${\color{gray}Follow\ the\ link:}$ <!--YUhSMGNITTZMeTkwTG0xbEx5dHR[https://t.me/+Zb3aPVxWf0M3ZWM5]lR2xEYjBGdE9GSlVRWHBPYlVWNA -->
