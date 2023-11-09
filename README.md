@@ -4,9 +4,9 @@
 
 <img align="right" src="https://avatars.githubusercontent.com/u/31013580" height="200">
 
-I am an **OSINT enthusiast** with a background in cybersecurity and software development. 🔐 
+I am an **[OSINT](https://www.sans.org/blog/what-is-open-source-intelligence/) enthusiast** with a background in cybersecurity and software development. 🔐 
 
-⚒️ I started getting into OSINT in 2015 by playing CTFs and ARGs and making [information-gathering and processing tools](https://github.com/stars/soxoj/lists/my-osint-tools).
+⚒️ I started getting into open-source intelligence in 2015 by playing CTFs and ARGs and making [information-gathering and processing tools](https://github.com/stars/soxoj/lists/my-osint-tools).
 
 🎙️ Since 2018 I've been talking about OSINT, search methods, and privacy at public events; I was a speaker at large international conferences like leHACK and ISS World Europe. Also, I prepared and conducted two training courses about open-source intelligence for cybersec students and private investigators. You can look at some of my talks in [this YouTube playlist](https://www.youtube.com/playlist?list=PLskYWMG4mV-6osVePbwJa2Tp2Bc2EUI1p).
 
