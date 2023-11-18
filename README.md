@@ -18,15 +18,16 @@ I am an **[OSINT](https://www.sans.org/blog/what-is-open-source-intelligence/) e
 
 ⚒️ I have experience in cybersecurity (antibot/anti-fraud protection, pentest), software development (mostly Python, also Go, Lua), building of development processes (Scrum, Kanban), and people management.
 
-✍️ You can find my articles, guides, and even podcasts on [**Substack**](https://soxoj.substack.com/), [Medium (old)](https://soxoj.medium.com/), in the Telegram channels [Soxoj insides](https://t.me/soxoj_insides) and [OSINT mindset (old posts)](https://t.me/osint_mindset), and, of course, [in GitHub list of my guides and collections](https://github.com/stars/soxoj/lists/my-guides-and-collections).
+✍️ You can find my articles, guides, and just thoughts on [**Substack**](https://soxoj.substack.com/), [Medium (old)](https://soxoj.medium.com/), in [Twitter](https://twitter.com/Sox0j), the Telegram channels [Soxoj insides](https://t.me/soxoj_insides) and [OSINT mindset (old posts)](https://t.me/osint_mindset), and, of course, [in GitHub list of my guides and collections](https://github.com/stars/soxoj/lists/my-guides-and-collections).
 
 ## 🚧 Some projects
 
 - [Maigret](https://github.com/soxoj/maigret) - a username checker collecting a dossier on a person by username from 3000+ sites (9K stars on GitHub)
+- [Adana](https://adana.soxoj.com) - 1-click analytical dashboard for OSINT researchers, Bellingcat hackathon project
 - [OSINT namecheckers list](https://github.com/soxoj/osint-namecheckers-list) - a curated list of all the tools for checking accounts existence by username
 - [OSINT CLI tool skeleton](https://github.com/soxoj/osint-cli-tool-skeleton) - a template of a Python project for new OSINT command-line tools
 - [Username generation guide](https://github.com/soxoj/username-generation-guide) - a definitive guide to generating usernames for OSINT purposes
-- [Counter-OSINT guide for Russians](https://github.com/soxoj/counter-osint-guide-ru) [[RU]](https://github.com/soxoj/counter-osint-guide-ru) [[EN]](https://github.com/soxoj/counter-osint-guide-en) - comprehensive counter OSINT and privacy guide for Runet and CIS
+- [Counter-OSINT & privacy guide](https://github.com/soxoj/counter-osint-guide-en) [[RU]](https://github.com/soxoj/counter-osint-guide-ru) [[BR]](https://github.com/alexandresantosal91/counter-osint-guide-pt-br) -  guide about your personal information protection
 
 ## ✉️ Contacts
 
