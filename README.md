@@ -1,5 +1,7 @@
 # 👋 Hi there, it's the homepage of Soxoj
 
+[Blog](https://soxoj.substack.com/) | [Tools](https://github.com/stars/soxoj/lists/my-osint-tools) | [SOWEL](https://sowel.soxoj.com/)
+
 ## ❓ Who am I
 
 <img align="right" src="https://avatars.githubusercontent.com/u/31013580" height="200">
