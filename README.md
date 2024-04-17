@@ -31,9 +31,11 @@ I am an **[OSINT](https://www.sans.org/blog/what-is-open-source-intelligence/) e
 - [Username generation guide](https://github.com/soxoj/username-generation-guide) - a definitive guide to generating usernames for OSINT purposes
 - [Counter-OSINT & privacy guide](https://github.com/soxoj/counter-osint-guide-en) [[RU]](https://github.com/soxoj/counter-osint-guide-ru) [[BR]](https://github.com/alexandresantosal91/counter-osint-guide-pt-br) -  guide about your personal information protection
 
-## ✉️ Contacts
+## ✉️ Contacts and support
 
-The fastest ways to contact me: **[DM in Telegram](https://t.me/soxoj)** or mail to <a href="mailto:soxoj@protonmail.com">soxoj@protonmail.com</a>.
+If you want to support me, [donate for coffee](https://buymeacoffee.com/soxoj)! I get hyperactive and make new tools 🏃🏽‍♂️
+
+The fastest ways to contact me: **[DM in Telegram](https://t.me/soxoj)** or mail to <a href="mailto:soxoj@protonmail.com">soxoj@protonmail.com</a>. 
 
 [Twitter](https://twitter.com/Sox0j) | [Telegram](https://t.me/soxoj) | [Bluesky](https://bsky.app/profile/soxoj.bsky.social) | [Mastodon](https://infosec.exchange/@soxoj) | [LinkedIn](https://ln.soxoj.com/)
 
