@@ -17,10 +17,12 @@
 .link-panel ul {
     list-style-type: none;
     padding: 0;
+    display: flex;
+    justify-content: center;
 }
 
 .link-panel li {
-    margin: 10px 0;
+    margin: 0 10px;
 }
 
 .link-panel a {
