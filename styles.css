@@ -1,0 +1,35 @@
+.link-panel {
+    background-color: #f8f9fa;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.link-panel h2 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.link-panel ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.link-panel li {
+    margin: 10px 0;
+}
+
+.link-panel a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.link-panel a:hover {
+    color: #0056b3;
+}
