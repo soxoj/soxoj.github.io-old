@@ -18,11 +18,14 @@
     padding: 0;
     display: flex;
     justify-content: center;
+    margin-bottom: 0;
 }
 
 .link-panel li {
-    margin: 0 10px;
-    padding: 0 10px;
+    margin: 5px;
+    padding: 2px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
 }
 
 .link-panel a {
