@@ -10,7 +10,7 @@ I am an **[OSINT](https://www.sans.org/blog/what-is-open-source-intelligence/) e
 
 ⚒️ I started getting into open-source intelligence in 2015 by playing CTFs and ARGs and making [information-gathering and processing tools](https://github.com/stars/soxoj/lists/my-osint-tools).
 
-🎙️ Since 2018 I've been talking about OSINT, search methods, and privacy at public events; I was a speaker at large international conferences like leHACK and ISS World Europe. Also, I prepared and conducted two training courses about open-source intelligence for cybersec students and private investigators. You can look at some of my talks in [this YouTube playlist](https://www.youtube.com/playlist?list=PLskYWMG4mV-6osVePbwJa2Tp2Bc2EUI1p).
+🎙️ Since 2018 I've been talking about OSINT, search methods, and privacy at public events. I was a speaker at large international conferences: leHACK, Osintomatico and ISS WORLD Europe / Middle East. Also, I prepared and conducted two training courses about open-source intelligence for cybersec students and private investigators. You can look at some of my talks in [this YouTube playlist](https://www.youtube.com/playlist?list=PLskYWMG4mV-6osVePbwJa2Tp2Bc2EUI1p).
 
 🎥 In 2020 I founded the **OSINT mindset community** ([first post](https://t.me/osint_mindset/5), [first meetup](https://t.me/osint_mindset/94)). The community has more than 20K subscribers, 4K members of [Investigation Forum](https://forum.osint-mindset.com), and dozens of active members and speakers in 3 countries and 5 cities. You can watch [records of meetup talks](https://www.youtube.com/playlist?list=PLskYWMG4mV-7A2tKggMryk18tbwC7jLhX) on YouTube, [listen to OSINT mindset podcasts](https://osint-mindset.mave.digital/) on various platforms, and [read the excellent wiki](https://osint-mindset.gitbook.io) on Gitbook.
 
@@ -37,7 +37,7 @@ If you want to support me, [donate for coffee](https://buymeacoffee.com/soxoj)! 
 
 The fastest ways to contact me: **[DM in Telegram](https://t.me/soxoj)** or mail to <a href="mailto:soxoj@protonmail.com">soxoj@protonmail.com</a>. 
 
-[Twitter](https://twitter.com/Sox0j) | [Telegram](https://t.me/soxoj) | [Bluesky](https://bsky.app/profile/soxoj.bsky.social) | [Mastodon](https://infosec.exchange/@soxoj) | [LinkedIn](https://ln.soxoj.com/)
+[Twitter](https://twitter.com/Sox0j) | [Telegram](https://t.me/soxoj) | [Signal](https://signal.me/#eu/-lvoAcFsWd_QMwKu_ZpcZa1MTUoLXBXuhF_rOoma-0yslfzcgKlGn7R64MqyD7Ob) | [Bluesky](https://bsky.app/profile/soxoj.bsky.social) | [Mastodon](https://infosec.exchange/@soxoj) | [LinkedIn](https://ln.soxoj.com/)
 
 ## 🎮 Quest
 
