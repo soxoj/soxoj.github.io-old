@@ -1,6 +1,17 @@
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
 # 👋 Hi there, it's the homepage of Soxoj
 
-[Blog](https://soxoj.substack.com/) | [Tools](https://github.com/stars/soxoj/lists/my-osint-tools) | [SOWEL](https://sowel.soxoj.com/)
+<div class="link-panel">
+    <ul>
+        <li><a href="https://soxoj.substack.com/">My Substack blog</a></li>
+        <li><a href="https://github.com/stars/soxoj/lists/my-osint-tools">My tools</a></li>
+        <li><a href="https://github.com/stars/soxoj/lists/my-guides-and-collections">My guides</a></li>
+        <li><a href="https://github.com/stars/soxoj/lists/my-guides-and-collections">Investigation framework SOWEL</a></li>
+    </ul>
+</div>
 
 ## ❓ Who am I
 
