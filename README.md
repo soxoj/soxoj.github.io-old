@@ -9,7 +9,7 @@
         <li><a href="https://soxoj.substack.com/">My Substack blog</a></li>
         <li><a href="https://github.com/stars/soxoj/lists/my-osint-tools">My tools</a></li>
         <li><a href="https://github.com/stars/soxoj/lists/my-guides-and-collections">My guides</a></li>
-        <li><a href="https://github.com/stars/soxoj/lists/my-guides-and-collections">Investigation framework SOWEL</a></li>
+        <li><a href="https://sowel.soxoj.com/">Investigation framework SOWEL</a></li>
     </ul>
 </div>
 
